@@ -1,0 +1,7 @@
+input {
+    flex-direction: row-reverse;
+    line-height: 28px;
+    padding: 0 6px;
+    width: 90%;
+    
+}

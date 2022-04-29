@@ -1,0 +1,22 @@
+{
+    "name": "Daniela Guzman",
+    "description": "Homework's list",
+    "avatar": "https://randomuser.me/api/portraits/women/95.jpg",
+    "homeworks":[
+        {
+            "id": 1, 
+            "text": "Preparar café", 
+            "completed": "false"
+        },
+        {
+            "id": 2, 
+            "text": "Servir café", 
+            "completed": "false"
+        },
+        {
+            "id": 3, 
+            "text": "Tomar café", 
+            "completed": "false"
+        }
+    ]
+}
